@@ -1,1 +1,1 @@
-[Github] (https://github.com/ak17sh)
+[Github](https://github.com/ak17sh)
